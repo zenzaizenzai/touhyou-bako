@@ -1,10 +1,12 @@
-const CACHE_NAME = 'touhyou-bako-v1';
+const CACHE_NAME = 'touhyou-bako-v2';
 const ASSETS = [
     './',
     './index.html',
     './style.css',
     './app.js',
-    './manifest.json'
+    './manifest.json',
+    './icon_folded.png',
+    './icon_unfolded.png'
 ];
 
 // インストール時にキャッシュ
