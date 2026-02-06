@@ -1,0 +1,22 @@
+{
+    "name": "投票行動観察カウンター",
+    "short_name": "投票カウンター",
+    "description": "投票所での投票行動を静かに、確実に記録するためのオフライン対応カウンターツール。",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
