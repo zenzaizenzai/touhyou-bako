@@ -1,4 +1,4 @@
-const CACHE_NAME = 'touhyou-bako-v2';
+const CACHE_NAME = 'touhyou-bako-v3';
 const ASSETS = [
     './',
     './index.html',
